@@ -6,6 +6,51 @@
 // "buzz" instead of the number, and if the number is divisible
 //  by 3 and 5 log "fizzbuzz" instead of that number.
 
+// function fizzBuzz(num) {
+//     for(i = 1; i <= num; i++) {
+//         if(i % 3 === 0 && i % 5 === 0) {
+//             console.log('FizzBuzz')
+//         }else if(i % 3 === 0) {
+//             console.log('Fizz')
+//         }else if(i % 5 === 0) {
+//             console.log('Buzz')
+//         }else {
+//             console.log(i)
+//         }
+//     }
+// }
+// fizzBuzz(30)
+
+// function fizzBuzz(num) {
+//     for(i = 1; i <= num; i++) {
+//         if(i % 3 === 0 && i % 5 === 0) {
+//             console.log ('FIzzBuzz')
+//         }else if(i % 3 === 0) {
+//             console.log ('Fizz')
+//         }else if(i % 5 === 0) {
+//             console.log ('Buzz')
+//         }else {
+//             console.log (i)
+//         }
+//     }
+// }
+// fizzBuzz(30)
+
+// function fizzBuzz(num) {
+//     for(i = 1; i <= num; i++) {
+//         if(i % 3 === 0 && i % 5 === 0) {
+//             console.log('FizzBuzz') 
+//         }else if(i % 3 === 0) {
+//             console.log ('Fizz')
+//         }else if (i % 5 === 0) {
+//             console.log ('Buzz')
+//         }else {
+//             console.log(i)
+//         }
+//     }
+// }
+// fizzBuzz(30)
+
 function fizzBuzz(num) {
     for(i = 1; i <= num; i++) {
         if(i % 3 === 0 && i % 5 === 0) {
@@ -19,4 +64,4 @@ function fizzBuzz(num) {
         }
     }
 }
-fizzBuzz(30)
+fizzBuzz(155)
