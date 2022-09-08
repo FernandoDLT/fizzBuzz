@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function fizzBuzz (num) {
     for(let i = 1; i <= num; i++) {
         if (i % 3 === 0 && i % 5 === 0) {
@@ -12,3 +13,5 @@ function fizzBuzz (num) {
     }
 }
 fizzBuzz(100)
+=======
+>>>>>>> 35dae3f98106e3b2d313eb7764eca150b4b80847
